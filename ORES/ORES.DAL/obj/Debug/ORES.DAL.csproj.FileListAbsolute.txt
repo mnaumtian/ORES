@@ -1,0 +1,4 @@
+D:\Document\FYP\Project\ORES\ORES.DAL\bin\Debug\ORES.DAL.dll
+D:\Document\FYP\Project\ORES\ORES.DAL\bin\Debug\ORES.DAL.pdb
+D:\Document\FYP\Project\ORES\ORES.DAL\obj\Debug\ORES.DAL.dll
+D:\Document\FYP\Project\ORES\ORES.DAL\obj\Debug\ORES.DAL.pdb

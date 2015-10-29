@@ -1,0 +1,4 @@
+D:\Document\FYP\Project\ORES\ORES.MODELS\bin\Debug\ORES.MODELS.dll
+D:\Document\FYP\Project\ORES\ORES.MODELS\bin\Debug\ORES.MODELS.pdb
+D:\Document\FYP\Project\ORES\ORES.MODELS\obj\Debug\ORES.MODELS.dll
+D:\Document\FYP\Project\ORES\ORES.MODELS\obj\Debug\ORES.MODELS.pdb
