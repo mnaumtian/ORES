@@ -1,0 +1,22 @@
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\BusinessLogicLayer\bin\Debug\BusinessObjectLayer.dll
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\BusinessLogicLayer\bin\Debug\BusinessObjectLayer.pdb
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\BusinessLogicLayer\bin\Debug\EntityFramework.xml
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\Uni Work\Project\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\Uni Work\Project\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\Uni Work\Project\BusinessLogicLayer\bin\Debug\BusinessObjectLayer.dll
+D:\Uni Work\Project\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+D:\Uni Work\Project\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+D:\Uni Work\Project\BusinessLogicLayer\bin\Debug\BusinessObjectLayer.pdb
+D:\Uni Work\Project\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\Uni Work\Project\BusinessLogicLayer\bin\Debug\EntityFramework.xml
+D:\Uni Work\Project\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+D:\Uni Work\Project\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\Uni Work\Project\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

@@ -1,0 +1,19 @@
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\BusinessObjectLayer\bin\Debug\BusinessObjectLayer.dll.config
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\BusinessObjectLayer\bin\Debug\BusinessObjectLayer.dll
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\BusinessObjectLayer\bin\Debug\BusinessObjectLayer.pdb
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\BusinessObjectLayer\bin\Debug\EntityFramework.dll
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\BusinessObjectLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\BusinessObjectLayer\bin\Debug\EntityFramework.xml
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\BusinessObjectLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\BusinessObjectLayer\obj\Debug\BusinessObjectLayer.csprojResolveAssemblyReference.cache
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\BusinessObjectLayer\obj\Debug\BusinessObjectLayer.dll
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\BusinessObjectLayer\obj\Debug\BusinessObjectLayer.pdb
+D:\Uni Work\Project\BusinessObjectLayer\bin\Debug\BusinessObjectLayer.dll.config
+D:\Uni Work\Project\BusinessObjectLayer\bin\Debug\BusinessObjectLayer.dll
+D:\Uni Work\Project\BusinessObjectLayer\bin\Debug\BusinessObjectLayer.pdb
+D:\Uni Work\Project\BusinessObjectLayer\bin\Debug\EntityFramework.dll
+D:\Uni Work\Project\BusinessObjectLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Uni Work\Project\BusinessObjectLayer\bin\Debug\EntityFramework.xml
+D:\Uni Work\Project\BusinessObjectLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Uni Work\Project\BusinessObjectLayer\obj\Debug\BusinessObjectLayer.dll
+D:\Uni Work\Project\BusinessObjectLayer\obj\Debug\BusinessObjectLayer.pdb

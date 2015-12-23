@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="68b7c59622014f6dab759d23a60e9e30" Name="Diagram1">
+        <EntityTypeShape EntityType="ORESModel.ActivityLog" Width="1.5" PointX="5.25" PointY="14.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ORESModel.AnswerType" Width="1.5" PointX="6" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="ORESModel.Evaluation" Width="1.5" PointX="8.25" PointY="15.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ORESModel.EvaluationManagement" Width="1.5" PointX="10.5" PointY="15.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ORESModel.EvaluationResult" Width="1.5" PointX="12.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ORESModel.Exception" Width="1.5" PointX="5.25" PointY="21.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ORESModel.Form" Width="1.5" PointX="0.75" PointY="7.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ORESModel.Group" Width="1.5" PointX="6" PointY="9.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ORESModel.GroupMember" Width="1.5" PointX="8.25" PointY="11.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ORESModel.MailConfiguration" Width="1.5" PointX="9" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ORESModel.MailScheduling" Width="1.5" PointX="11.25" PointY="9.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ORESModel.Question" Width="1.5" PointX="8.25" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ORESModel.Role" Width="1.5" PointX="0.75" PointY="11.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ORESModel.RolesRightsManagement" Width="1.5" PointX="3" PointY="10.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ORESModel.User" Width="1.5" PointX="3" PointY="14.875" IsExpanded="true" />
+        <AssociationConnector Association="ORESModel.FK_ActivityLog_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="ORESModel.FK_Questions_AnswerType" ManuallyRouted="false" />
+        <AssociationConnector Association="ORESModel.FK_EVALUATIONMGMT_EVALUATION" ManuallyRouted="false" />
+        <AssociationConnector Association="ORESModel.FK_Survey_Group" ManuallyRouted="false" />
+        <AssociationConnector Association="ORESModel.FK_Survey_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="ORESModel.FK_EVALUATIONMGMT_QUESTION" ManuallyRouted="false" />
+        <AssociationConnector Association="ORESModel.FK_SurveyResult_SurveyManagement" ManuallyRouted="false" />
+        <AssociationConnector Association="ORESModel.FK_SurveyResult_Questions" ManuallyRouted="false" />
+        <AssociationConnector Association="ORESModel.FK_Exceptions_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="ORESModel.FK_RolesRightsManagement_Forms" ManuallyRouted="false" />
+        <AssociationConnector Association="ORESModel.FK_GroupMember_Group" ManuallyRouted="false" />
+        <AssociationConnector Association="ORESModel.FK_MailScheduling_Group" ManuallyRouted="false" />
+        <AssociationConnector Association="ORESModel.fk_user" ManuallyRouted="false" />
+        <AssociationConnector Association="ORESModel.FK_MailScheduling_MailConfiguration" ManuallyRouted="false" />
+        <AssociationConnector Association="ORESModel.FK_RolesRightsManagement_Role" ManuallyRouted="false" />
+        <AssociationConnector Association="ORESModel.FK_Users_Role" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

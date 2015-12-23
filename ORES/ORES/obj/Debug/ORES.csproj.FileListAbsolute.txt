@@ -1,24 +1,85 @@
-D:\Document\FYP\Project\ORES\ORES\bin\ORES.dll
-D:\Document\FYP\Project\ORES\ORES\bin\ORES.pdb
-D:\Document\FYP\Project\ORES\ORES\bin\Microsoft.Web.Infrastructure.dll
-D:\Document\FYP\Project\ORES\ORES\bin\Newtonsoft.Json.dll
-D:\Document\FYP\Project\ORES\ORES\bin\System.Net.Http.dll
-D:\Document\FYP\Project\ORES\ORES\bin\System.Net.Http.WebRequest.dll
-D:\Document\FYP\Project\ORES\ORES\bin\System.Web.Helpers.dll
-D:\Document\FYP\Project\ORES\ORES\bin\System.Web.Mvc.dll
-D:\Document\FYP\Project\ORES\ORES\bin\System.Web.Razor.dll
-D:\Document\FYP\Project\ORES\ORES\bin\System.Web.WebPages.Deployment.dll
-D:\Document\FYP\Project\ORES\ORES\bin\System.Web.WebPages.dll
-D:\Document\FYP\Project\ORES\ORES\bin\System.Web.WebPages.Razor.dll
-D:\Document\FYP\Project\ORES\ORES\bin\Newtonsoft.Json.xml
-D:\Document\FYP\Project\ORES\ORES\bin\System.Net.Http.xml
-D:\Document\FYP\Project\ORES\ORES\bin\System.Net.Http.WebRequest.xml
-D:\Document\FYP\Project\ORES\ORES\bin\System.Web.Helpers.xml
-D:\Document\FYP\Project\ORES\ORES\bin\System.Web.Mvc.xml
-D:\Document\FYP\Project\ORES\ORES\bin\System.Web.Razor.xml
-D:\Document\FYP\Project\ORES\ORES\bin\System.Web.WebPages.xml
-D:\Document\FYP\Project\ORES\ORES\bin\System.Web.WebPages.Deployment.xml
-D:\Document\FYP\Project\ORES\ORES\bin\System.Web.WebPages.Razor.xml
-D:\Document\FYP\Project\ORES\ORES\obj\Debug\ORES.csprojResolveAssemblyReference.cache
-D:\Document\FYP\Project\ORES\ORES\obj\Debug\ORES.dll
-D:\Document\FYP\Project\ORES\ORES\obj\Debug\ORES.pdb
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\ORES\ORES\bin\roslyn\csc.exe
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\ORES\ORES\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\ORES\ORES\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\ORES\ORES\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\ORES\ORES\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\ORES\ORES\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\ORES\ORES\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\ORES\ORES\bin\roslyn\System.Collections.Immutable.dll
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\ORES\ORES\bin\roslyn\System.Reflection.Metadata.dll
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\ORES\ORES\bin\roslyn\vbc.exe
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\ORES\ORES\bin\roslyn\VBCSCompiler.exe
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\ORES\ORES\bin\roslyn\VBCSCompiler.exe.config
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\ORES\ORES\bin\ORES.dll.config
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\ORES\ORES\bin\ORES.dll
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\ORES\ORES\bin\ORES.pdb
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\ORES\ORES\bin\BusinessLogicLayer.dll
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\ORES\ORES\bin\BusinessObjectLayer.dll
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\ORES\ORES\bin\EntityFramework.dll
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\ORES\ORES\bin\EntityFramework.SqlServer.dll
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\ORES\ORES\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\ORES\ORES\bin\Microsoft.Web.Infrastructure.dll
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\ORES\ORES\bin\System.Web.Helpers.dll
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\ORES\ORES\bin\System.Web.Mvc.dll
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\ORES\ORES\bin\System.Web.Razor.dll
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\ORES\ORES\bin\System.Web.Webpages.Deployment.dll
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\ORES\ORES\bin\System.Web.Webpages.dll
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\ORES\ORES\bin\System.Web.Webpages.Razor.dll
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\ORES\ORES\bin\DataAccessLayer.dll
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\ORES\ORES\bin\BusinessLogicLayer.pdb
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\ORES\ORES\bin\BusinessObjectLayer.pdb
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\ORES\ORES\bin\EntityFramework.xml
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\ORES\ORES\bin\EntityFramework.SqlServer.xml
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\ORES\ORES\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\ORES\ORES\bin\System.Web.Razor.xml
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\ORES\ORES\bin\System.Web.Webpages.xml
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\ORES\ORES\bin\System.Web.Webpages.Deployment.xml
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\ORES\ORES\bin\System.Web.Webpages.Razor.xml
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\ORES\ORES\bin\System.Web.Helpers.xml
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\ORES\ORES\bin\System.Web.Mvc.xml
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\ORES\ORES\bin\DataAccessLayer.pdb
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\ORES\ORES\obj\Debug\ORES.csprojResolveAssemblyReference.cache
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\ORES\ORES\obj\Debug\ORES.dll
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\ORES\ORES\obj\Debug\ORES.pdb
+D:\Uni Work\Project\ORES\ORES\bin\roslyn\csc.exe
+D:\Uni Work\Project\ORES\ORES\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Uni Work\Project\ORES\ORES\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Uni Work\Project\ORES\ORES\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Uni Work\Project\ORES\ORES\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Uni Work\Project\ORES\ORES\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Uni Work\Project\ORES\ORES\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Uni Work\Project\ORES\ORES\bin\roslyn\System.Collections.Immutable.dll
+D:\Uni Work\Project\ORES\ORES\bin\roslyn\System.Reflection.Metadata.dll
+D:\Uni Work\Project\ORES\ORES\bin\roslyn\vbc.exe
+D:\Uni Work\Project\ORES\ORES\bin\roslyn\VBCSCompiler.exe
+D:\Uni Work\Project\ORES\ORES\bin\roslyn\VBCSCompiler.exe.config
+D:\Uni Work\Project\ORES\ORES\bin\ORES.dll.config
+D:\Uni Work\Project\ORES\ORES\bin\ORES.dll
+D:\Uni Work\Project\ORES\ORES\bin\ORES.pdb
+D:\Uni Work\Project\ORES\ORES\bin\BusinessLogicLayer.dll
+D:\Uni Work\Project\ORES\ORES\bin\BusinessObjectLayer.dll
+D:\Uni Work\Project\ORES\ORES\bin\EntityFramework.dll
+D:\Uni Work\Project\ORES\ORES\bin\EntityFramework.SqlServer.dll
+D:\Uni Work\Project\ORES\ORES\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Uni Work\Project\ORES\ORES\bin\System.Web.Helpers.dll
+D:\Uni Work\Project\ORES\ORES\bin\System.Web.Mvc.dll
+D:\Uni Work\Project\ORES\ORES\bin\System.Web.Razor.dll
+D:\Uni Work\Project\ORES\ORES\bin\System.Web.Webpages.Deployment.dll
+D:\Uni Work\Project\ORES\ORES\bin\System.Web.Webpages.dll
+D:\Uni Work\Project\ORES\ORES\bin\System.Web.Webpages.Razor.dll
+D:\Uni Work\Project\ORES\ORES\bin\DataAccessLayer.dll
+D:\Uni Work\Project\ORES\ORES\bin\BusinessLogicLayer.pdb
+D:\Uni Work\Project\ORES\ORES\bin\BusinessObjectLayer.pdb
+D:\Uni Work\Project\ORES\ORES\bin\EntityFramework.xml
+D:\Uni Work\Project\ORES\ORES\bin\EntityFramework.SqlServer.xml
+D:\Uni Work\Project\ORES\ORES\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Uni Work\Project\ORES\ORES\bin\System.Web.Razor.xml
+D:\Uni Work\Project\ORES\ORES\bin\System.Web.Webpages.xml
+D:\Uni Work\Project\ORES\ORES\bin\System.Web.Webpages.Deployment.xml
+D:\Uni Work\Project\ORES\ORES\bin\System.Web.Webpages.Razor.xml
+D:\Uni Work\Project\ORES\ORES\bin\System.Web.Helpers.xml
+D:\Uni Work\Project\ORES\ORES\bin\System.Web.Mvc.xml
+D:\Uni Work\Project\ORES\ORES\bin\DataAccessLayer.pdb
+D:\Uni Work\Project\ORES\ORES\obj\Debug\ORES.csprojResolveAssemblyReference.cache
+D:\Uni Work\Project\ORES\ORES\obj\Debug\ORES.dll
+D:\Uni Work\Project\ORES\ORES\obj\Debug\ORES.pdb

@@ -1,0 +1,14 @@
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\DataAccessLayer\bin\Debug\BusinessObjectLayer.dll
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\DataAccessLayer\bin\Debug\BusinessObjectLayer.pdb
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\CS Learning Material\University of Management and Technology\Final Year Project\Project\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Uni Work\Project\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Uni Work\Project\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Uni Work\Project\DataAccessLayer\bin\Debug\BusinessObjectLayer.dll
+D:\Uni Work\Project\DataAccessLayer\bin\Debug\BusinessObjectLayer.pdb
+D:\Uni Work\Project\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\Uni Work\Project\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Uni Work\Project\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
